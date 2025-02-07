@@ -56,7 +56,7 @@ body {
   align-items: center;
 }
 
-@media (min-width: 576px) {
+@media screen and (min-width: 576px) {
   .box-container {
     flex-direction: row;
     align-items: flex-end;
